@@ -1,0 +1,20 @@
+[
+    {
+        "id": 12345,
+        "name": "Budi",
+        "image": "https://example.com/budi.jpg",
+        "balance": 20
+    },
+    {
+        "id": 222,
+        "name": "Jaja",
+        "image": "https://example.com/jaja.jpg",
+        "balance": 5
+    },
+    {
+        "id": 67890,
+        "name": "Laura",
+        "image": "https://example.com/laura.jpg",
+        "balance": 0
+    }
+]
